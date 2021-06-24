@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/pomodoro-timer-thinkful/static/css/main.cb9e985a.chunk.css",
-    "main.js": "/pomodoro-timer-thinkful/static/js/main.1ed1bbdc.chunk.js",
-    "main.js.map": "/pomodoro-timer-thinkful/static/js/main.1ed1bbdc.chunk.js.map",
-    "runtime-main.js": "/pomodoro-timer-thinkful/static/js/runtime-main.c37a8731.js",
-    "runtime-main.js.map": "/pomodoro-timer-thinkful/static/js/runtime-main.c37a8731.js.map",
-    "static/js/2.0acf020f.chunk.js": "/pomodoro-timer-thinkful/static/js/2.0acf020f.chunk.js",
-    "static/js/2.0acf020f.chunk.js.map": "/pomodoro-timer-thinkful/static/js/2.0acf020f.chunk.js.map",
-    "index.html": "/pomodoro-timer-thinkful/index.html",
-    "precache-manifest.f00b50c76bfdc620708514de0c9a46b7.js": "/pomodoro-timer-thinkful/precache-manifest.f00b50c76bfdc620708514de0c9a46b7.js",
-    "service-worker.js": "/pomodoro-timer-thinkful/service-worker.js",
-    "static/css/main.cb9e985a.chunk.css.map": "/pomodoro-timer-thinkful/static/css/main.cb9e985a.chunk.css.map",
-    "static/js/2.0acf020f.chunk.js.LICENSE.txt": "/pomodoro-timer-thinkful/static/js/2.0acf020f.chunk.js.LICENSE.txt"
+    "main.css": "/Project_Pomodoro_Timer_Qualified_1/static/css/main.cb9e985a.chunk.css",
+    "main.js": "/Project_Pomodoro_Timer_Qualified_1/static/js/main.1ed1bbdc.chunk.js",
+    "main.js.map": "/Project_Pomodoro_Timer_Qualified_1/static/js/main.1ed1bbdc.chunk.js.map",
+    "runtime-main.js": "/Project_Pomodoro_Timer_Qualified_1/static/js/runtime-main.2c93a4f9.js",
+    "runtime-main.js.map": "/Project_Pomodoro_Timer_Qualified_1/static/js/runtime-main.2c93a4f9.js.map",
+    "static/js/2.0acf020f.chunk.js": "/Project_Pomodoro_Timer_Qualified_1/static/js/2.0acf020f.chunk.js",
+    "static/js/2.0acf020f.chunk.js.map": "/Project_Pomodoro_Timer_Qualified_1/static/js/2.0acf020f.chunk.js.map",
+    "index.html": "/Project_Pomodoro_Timer_Qualified_1/index.html",
+    "precache-manifest.81395e94c387f757636cb687a3c6b2ac.js": "/Project_Pomodoro_Timer_Qualified_1/precache-manifest.81395e94c387f757636cb687a3c6b2ac.js",
+    "service-worker.js": "/Project_Pomodoro_Timer_Qualified_1/service-worker.js",
+    "static/css/main.cb9e985a.chunk.css.map": "/Project_Pomodoro_Timer_Qualified_1/static/css/main.cb9e985a.chunk.css.map",
+    "static/js/2.0acf020f.chunk.js.LICENSE.txt": "/Project_Pomodoro_Timer_Qualified_1/static/js/2.0acf020f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c37a8731.js",
+    "static/js/runtime-main.2c93a4f9.js",
     "static/js/2.0acf020f.chunk.js",
     "static/css/main.cb9e985a.chunk.css",
     "static/js/main.1ed1bbdc.chunk.js"
